@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-02T23:10:04 GMT" name="ptl.test.TestBase" finished-at="2021-11-02T23:10:05 GMT" duration-ms="379">
+    <groups>
+    </groups>
+    <test started-at="2021-11-02T23:10:04 GMT" name="Command line test" finished-at="2021-11-02T23:10:05 GMT" duration-ms="379">
+      <class name="ptl.test.TestBase">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:ptl.test.TestBase@5a4041cc]" started-at="2021-11-02T23:10:04 GMT" name="BeforeTest" finished-at="2021-11-02T23:10:05 GMT" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:ptl.test.TestBase@5a4041cc]" started-at="2021-11-02T23:10:05 GMT" name="AfterTest" finished-at="2021-11-02T23:10:05 GMT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- ptl.test.TestBase -->
+    </test> <!-- Command line test -->
+  </suite> <!-- ptl.test.TestBase -->
+</testng-results>

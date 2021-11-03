@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="smoke" verbose="1">
+    <test name="Login Tests">
+        <classes>
+            <class name="ptl.test.PurchaseAnItem">
+                <methods>
+                    <include name="purchaseAnItem"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
